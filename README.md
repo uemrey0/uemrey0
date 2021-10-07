@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @uemrey0
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning Dart
+- 👀 I’m interested in PHP, Python, JavaScript
+- 🌱 I’m currently learning Dart based Flutter
 - 📫 ufukemreyuceturk@hotmail.com
