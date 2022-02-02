@@ -1,4 +1,5 @@
-![bannerGithub](https://user-images.githubusercontent.com/64688960/152149224-709f16af-403c-42de-af22-3f79ac798732.png)
+![bannerGithub](https://user-images.githubusercontent.com/64688960/152149224-709f16af-403c-42de-af22-3f79ac798732.png#gh-light-mode-only)
+![bannerDarkGithub](https://user-images.githubusercontent.com/64688960/152151249-cb340166-6309-41d8-96cb-e53475490c22.png#gh-dark-mode-only)
 
 ## Ufuk Emre Yücetürk
 I'm Ufuk Emre from Turkey, and I do content on Design and Development. I really enjoy learning languages like JavaScript and Python, as well as work on web development. I also enjoy wireframing, ui, ux, and design in general.
