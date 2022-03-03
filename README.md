@@ -18,10 +18,4 @@ I'm Ufuk Emre from Turkey, and I do content on Design and Development. I really 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg#gh-light-mode-only' alt='instagram' height='40'>](https://www.instagram.com/uemrey0/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg#gh-light-mode-only' alt='mail' height='40'>](mailto:ufukemreyuceturk@hotmail.com)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg#gh-dark-mode-only' alt='github' height='40'>](https://github.com/uemrey0)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg#gh-dark-mode-only' alt='dev' height='40'>](https://dev.to/uemrey0)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg#gh-dark-mode-only' alt='linkedin' height='40'>](https://www.linkedin.com/in/uemrey0/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg#gh-dark-mode-only' alt='instagram' height='40'>](https://www.instagram.com/uemrey0/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg#gh-dark-mode-only' alt='mail' height='40'>](mailto:ufukemreyuceturk@hotmail.com) 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=uemrey0&show_icons=true)  
